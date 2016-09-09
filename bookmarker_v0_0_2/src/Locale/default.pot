@@ -1,0 +1,332 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-08-31 18:01+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/BookmarksController.php:96;124
+msgid "The bookmark has been saved."
+msgstr ""
+
+#: Controller/BookmarksController.php:100;128
+msgid "The bookmark could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BookmarksController.php:148
+msgid "The bookmark has been deleted."
+msgstr ""
+
+#: Controller/BookmarksController.php:150
+msgid "The bookmark could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TagsController.php:55;82
+msgid "The tag has been saved."
+msgstr ""
+
+#: Controller/TagsController.php:59;86
+msgid "The tag could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TagsController.php:106
+msgid "The tag has been deleted."
+msgstr ""
+
+#: Controller/TagsController.php:108
+msgid "The tag could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:74;99
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:78;103
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:121
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:123
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:3
+#: Template/Bookmarks/edit.ctp:3
+#: Template/Bookmarks/index.ctp:3;21
+#: Template/Bookmarks/view.ctp:3;55
+#: Template/Tags/add.ctp:3
+#: Template/Tags/edit.ctp:3
+#: Template/Tags/index.ctp:3;18
+#: Template/Tags/view.ctp:3;44
+#: Template/Users/add.ctp:3
+#: Template/Users/edit.ctp:3
+#: Template/Users/index.ctp:3;19
+#: Template/Users/view.ctp:3;48
+msgid "Actions"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:4
+#: Template/Bookmarks/edit.ctp:10
+#: Template/Bookmarks/view.ctp:6
+#: Template/Tags/add.ctp:5
+#: Template/Tags/edit.ctp:11
+#: Template/Tags/index.ctp:5
+#: Template/Tags/view.ctp:8
+#: Template/Users/add.ctp:5
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:5
+#: Template/Users/view.ctp:8
+msgid "List Bookmarks"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:5
+#: Template/Bookmarks/edit.ctp:11
+#: Template/Bookmarks/index.ctp:5
+#: Template/Bookmarks/view.ctp:8
+#: Template/Users/add.ctp:4
+#: Template/Users/edit.ctp:10
+#: Template/Users/view.ctp:6
+msgid "List Users"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:6
+#: Template/Bookmarks/edit.ctp:12
+#: Template/Bookmarks/index.ctp:6
+#: Template/Bookmarks/view.ctp:9
+#: Template/Users/index.ctp:4
+#: Template/Users/view.ctp:7
+msgid "New User"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:7
+#: Template/Bookmarks/edit.ctp:13
+#: Template/Bookmarks/index.ctp:7
+#: Template/Bookmarks/view.ctp:10
+#: Template/Tags/add.ctp:4
+#: Template/Tags/edit.ctp:10
+#: Template/Tags/view.ctp:6
+msgid "List Tags"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:8
+#: Template/Bookmarks/edit.ctp:14
+#: Template/Bookmarks/index.ctp:8
+#: Template/Bookmarks/view.ctp:11
+#: Template/Tags/index.ctp:4
+#: Template/Tags/view.ctp:7
+msgid "New Tag"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:14
+msgid "Add Bookmark"
+msgstr ""
+
+#: Template/Bookmarks/add.ctp:23
+#: Template/Bookmarks/edit.ctp:29
+#: Template/Tags/add.ctp:18
+#: Template/Tags/edit.ctp:24
+#: Template/Users/add.ctp:18
+#: Template/Users/edit.ctp:24
+msgid "Submit"
+msgstr ""
+
+#: Template/Bookmarks/edit.ctp:5
+#: Template/Bookmarks/index.ctp:35
+#: Template/Bookmarks/view.ctp:66
+#: Template/Tags/edit.ctp:5
+#: Template/Tags/index.ctp:31
+#: Template/Tags/view.ctp:58
+#: Template/Users/edit.ctp:5
+#: Template/Users/index.ctp:33
+#: Template/Users/view.ctp:62
+msgid "Delete"
+msgstr ""
+
+#: Template/Bookmarks/edit.ctp:7
+#: Template/Bookmarks/index.ctp:35
+#: Template/Bookmarks/view.ctp:5;66
+#: Template/Tags/edit.ctp:7
+#: Template/Tags/index.ctp:31
+#: Template/Tags/view.ctp:5;58
+#: Template/Users/edit.ctp:7
+#: Template/Users/index.ctp:33
+#: Template/Users/view.ctp:5;62
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Bookmarks/edit.ctp:20
+#: Template/Bookmarks/view.ctp:4
+msgid "Edit Bookmark"
+msgstr ""
+
+#: Template/Bookmarks/index.ctp:4
+#: Template/Bookmarks/view.ctp:7
+#: Template/Tags/add.ctp:6
+#: Template/Tags/edit.ctp:12
+#: Template/Tags/index.ctp:6
+#: Template/Tags/view.ctp:9
+#: Template/Users/add.ctp:6
+#: Template/Users/edit.ctp:12
+#: Template/Users/index.ctp:6
+#: Template/Users/view.ctp:9
+msgid "New Bookmark"
+msgstr ""
+
+#: Template/Bookmarks/index.ctp:12
+msgid "Bookmarks"
+msgstr ""
+
+#: Template/Bookmarks/index.ctp:33
+#: Template/Bookmarks/view.ctp:64
+#: Template/Tags/index.ctp:29
+#: Template/Tags/view.ctp:56
+#: Template/Users/index.ctp:31
+#: Template/Users/view.ctp:60
+msgid "View"
+msgstr ""
+
+#: Template/Bookmarks/index.ctp:34
+#: Template/Bookmarks/view.ctp:65
+#: Template/Tags/index.ctp:30
+#: Template/Tags/view.ctp:57
+#: Template/Users/index.ctp:32
+#: Template/Users/view.ctp:61
+msgid "Edit"
+msgstr ""
+
+#: Template/Bookmarks/index.ctp:43
+#: Template/Tags/index.ctp:39
+#: Template/Users/index.ctp:41
+msgid "previous"
+msgstr ""
+
+#: Template/Bookmarks/index.ctp:45
+#: Template/Tags/index.ctp:41
+#: Template/Users/index.ctp:43
+msgid "next"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:5
+msgid "Delete Bookmark"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:18
+msgid "User"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:22;52
+#: Template/Tags/view.ctp:16;39
+#: Template/Users/view.ctp:43
+msgid "Title"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:26;51
+#: Template/Tags/view.ctp:20;37
+#: Template/Users/view.ctp:24;41
+msgid "Id"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:30;53
+#: Template/Tags/view.ctp:24;42
+#: Template/Users/view.ctp:28;46
+msgid "Created"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:34;54
+#: Template/Tags/view.ctp:28;43
+#: Template/Users/view.ctp:32;47
+msgid "Modified"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:39
+#: Template/Tags/view.ctp:40
+#: Template/Users/view.ctp:44
+msgid "Description"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:43
+#: Template/Tags/view.ctp:41
+#: Template/Users/view.ctp:45
+msgid "Url"
+msgstr ""
+
+#: Template/Bookmarks/view.ctp:47
+msgid "Related Tags"
+msgstr ""
+
+#: Template/Layout/default.ctp:49
+msgid "logout"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Tags/add.ctp:12
+msgid "Add Tag"
+msgstr ""
+
+#: Template/Tags/edit.ctp:18
+#: Template/Tags/view.ctp:4
+msgid "Edit Tag"
+msgstr ""
+
+#: Template/Tags/index.ctp:10
+msgid "Tags"
+msgstr ""
+
+#: Template/Tags/view.ctp:5
+msgid "Delete Tag"
+msgstr ""
+
+#: Template/Tags/view.ctp:33
+#: Template/Users/view.ctp:37
+msgid "Related Bookmarks"
+msgstr ""
+
+#: Template/Tags/view.ctp:38
+#: Template/Users/view.ctp:42
+msgid "User Id"
+msgstr ""
+
+#: Template/Users/add.ctp:12
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:18
+#: Template/Users/view.ctp:4
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/index.ctp:10
+msgid "Users"
+msgstr ""
+
+#: Template/Users/view.ctp:5
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:16
+msgid "Email"
+msgstr ""
+
+#: Template/Users/view.ctp:20
+msgid "Password"
+msgstr ""
+
